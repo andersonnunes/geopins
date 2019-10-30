@@ -15,7 +15,7 @@
     "dotenv": "^8.00",
     "google-auth-library": "^5.2.0",
     "graphql": "^14.4.2",
-    "mongoose": "^5.6.9"
+    "mongoose": "^5.7.5"
   },
   "devDependencies": {
     "nodemon": "^1.19.1"
